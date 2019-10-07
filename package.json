@@ -1,6 +1,6 @@
 {
-  "name": "tmmgn/react-native-scrollable-tabview",
-  "version": "0.10.0",
+  "name": "react-native-scrollable-tabview",
+  "version": "0.11.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brentvatne/react-native-scrollable-tab-view.git"
+    "url": "git+https://github.com/tmmgn/react-native-scrollable-tab-view.git"
   },
   "keywords": [
     "react-native-component",
@@ -32,7 +32,7 @@
     "react-timer-mixin": "^0.13.3",
     "prop-types": "^15.7.2",
     "create-react-class": "^15.6.2",
-    "@react-native-community/viewpager": "^2.0.0",
+    "@react-native-community/viewpager": "^2.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
